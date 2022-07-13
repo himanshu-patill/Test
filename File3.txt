@@ -1,0 +1,3 @@
+Hello
+This is File3.
+New Rules
